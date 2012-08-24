@@ -10,6 +10,14 @@ README.md
 * ARCは使わない、retain/releaseをまじめにやる
 
 
+勉強会ネタ
+----
+* 01_console プロジェクトの作成、デバッグ実行
+* 02_retainRelease メモリ管理について
+* 03_class クラス作成、プロパティについて
+* 04_XXX アプリ作成：ローカルサーチで近くのPOIを取得する
+
+
 参考
 ----
 * [ぐぐるさん](http://www.google.co.jp/search?q=objective-C&sugexp=chrome,mod=17&sourceid=chrome&ie=UTF-8#hl=ja&sclient=psy-ab&q=objective-C+%E5%85%A5%E9%96%80&oq=objective-C+%E5%85%A5%E9%96%80&gs_l=serp.3..0l8.2061.3533.0.3814.9.9.0.0.0.2.116.806.7j2.9.0...0.0...1c.dFmVOU3gKdE&pbx=1&bav=on.2,or.r_gc.r_pw.r_qf.&fp=60e72f2798c919cf&biw=948&bih=561)
