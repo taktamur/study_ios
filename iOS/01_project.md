@@ -39,9 +39,12 @@ XXAppDelegateって何？
 [参考](http://cocoadays.blogspot.jp/2010/08/uiapplicationdelegate.html)
 [参考2:状態遷移図付き](http://d.hatena.ne.jp/yaguta/20100624/1277389302)
 
+アプリ起動時に画面を組み立てたりログイン処理をしたり、終了時にデータを保存したりするときここを触ります。
+
 実践
 ----
-XXAppDelegate.mにデフォルトで入っているメソッドの中にNSLogを仕込んで、エミュレータでのアプリを動かしたり止めたりしてログの出方を確認しましょう。
+XXAppDelegate.mにデフォルトで入っているメソッドの中にNSLogを仕込んで、
+エミュレータでのアプリを動かしたり止めたりしてログの出方を確認しましょう。
 
 UnitTestって何?
 ----
