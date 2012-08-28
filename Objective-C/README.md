@@ -20,11 +20,11 @@ README.md
 
 参考
 ----
-* [AppleのDevCenterのpdf](https://developer.apple.com/jp/devcenter/ios/library/documentation/ObjC.pdf)
+* [AppleのDevCenter](https://developer.apple.com/jp/devcenter/ios/library/japanese.html)
+    * [Objective-C プログラミング言語](https://developer.apple.com/jp/devcenter/ios/library/documentation/ObjC.pdf)
 
 * [詳解Objective-C 2.0](http://www.amazon.co.jp/%E8%A9%B3%E8%A7%A3-Objective-C-2-0-%E7%AC%AC3%E7%89%88-%E8%8D%BB%E5%8E%9F/dp/4797368276/ref=sr_1_1?s=books&ie=UTF8&qid=1345701754&sr=1-1)はObjective-C(iOS,MacOSX問わず)全般でおすすめです。
 
-* [ドットインストール](http://dotinstall.com/)にも[iOSコース](http://dotinstall.com/lessons/basic_ios)があります。
 
 * [QiitaのObjective-Cタグ](http://qiita.com/tags/Objective-C) 時々ネタが流れてきます。
 
