@@ -13,7 +13,7 @@ README.md
 勉強会ネタ
 ----
 * [01_console](./01.console.md) プロジェクトの作成、デバッグ実行
-* 02_retainRelease メモリ管理について
+* 02_fizzbuzz](./02_FizzBuzz.md) FizzBuzz
 * 03_class クラス作成、プロパティについて
 * 04_localsearch アプリ作成：ローカルサーチで近くのPOIを取得する
 
