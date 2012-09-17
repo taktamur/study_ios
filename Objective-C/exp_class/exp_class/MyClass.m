@@ -41,7 +41,9 @@
 {
     if( _valueB!=valueB){
         [_valueB release];    // ←保持しているオブジェクトを解放してる。
+        [valueB retain];  // 渡されたオブジェクトを保持する
         _valueB=valueB;
+        
     }
 }
 //valueBのgetter
