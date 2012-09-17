@@ -3,7 +3,10 @@
 
 今回のゴール
 ----
-自作クラスを作ってインスタンス化して使ってみる。@syncesizeを使わずにプロパティを作ってみる
+以下のクラスを作成して、値の代入、descriptionによるNSLogへの出力を行う
+
+* メンバ変数：double lat(緯度), double lon(経度),NSString name(名称), NSString comment(コメント)
+* メソッド：
 
 宿題
 ----
