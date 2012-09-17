@@ -56,7 +56,7 @@
 // メソッド
 -(NSString *)description
 {
-    return [NSString stringWithFormat:@"MyClass valueA:%lf, valueB:%@",
+    return [NSString stringWithFormat:@"MyClassWithProperty valueA:%lf, valueB:%@",
             [self valueA],
             [self valueB] ];
 }

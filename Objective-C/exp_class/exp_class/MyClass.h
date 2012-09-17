@@ -12,6 +12,7 @@
     // メンバ変数
     double _valueA;      // double型の値
     NSString *_valueB;  // オブジェクトへのポインタ
+    int _valueC;  // getter/setterの無いメンバ変数は、外部からアクセスできない。
 }
 // コンストラクタ
 -(id)init;
