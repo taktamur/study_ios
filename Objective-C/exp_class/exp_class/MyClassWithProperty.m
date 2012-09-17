@@ -24,7 +24,8 @@
 
 // メンバ変数へのアクセス
 // http://d.hatena.ne.jp/nakamura001/20101101/1288632739
-@synthesize valueA=_valueA, valueB=_valueB;
+@synthesize valueA=_valueA;
+@synthesize valueB=_valueB;
 // ↑は↓と同じ事をしている。
 /*
 // valueAのsetter
