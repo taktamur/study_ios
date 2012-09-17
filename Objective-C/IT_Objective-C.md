@@ -206,4 +206,8 @@
 
 * 全自動のメモリ管理（ガベージコレクション）
 	* 残念ながら、iOSではガベージコレクションが使えません。。
-	
+
+
+iOS開発へ
+===
+http://www.atmarkit.co.jp/fsmart/index/iphonesdk.html ここに移行していく予定です。
