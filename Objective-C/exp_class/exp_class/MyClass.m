@@ -10,7 +10,7 @@
 
 @implementation MyClass
 
-// コンストラクタ
+
 -(id)init
 {
     if ((self=[super init]) !=nil) {   // ←親クラスの指定イニシャライザを呼び出す
@@ -23,6 +23,7 @@
     return self;  // ←selfはJavaやPHPの"this"と同じ
 }
 
+#pragma mark - getter/setter
 // メンバ変数へのアクセス
 // valueAのsetter
 -(void)setValueA:(double)valueA
@@ -48,6 +49,7 @@
 {
     return _valueB;
 }
+#pragma mark -
 
 // メソッド
 -(NSString *)description
