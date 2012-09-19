@@ -30,6 +30,10 @@
 ----
 [http://www.atmarkit.co.jp/fcoding/articles/objc/02/objc02a.html](http://www.atmarkit.co.jp/fcoding/articles/objc/02/objc02a.html)
 
+この回から、ソースコードとコンパイルが出てきます。@ITではコマンドラインで作業を進めていますが、XCodeのプロジェクトを作成して、そこで作業を進めてください。
+[コンソールアプリのプロジェクト生成方法](https://github.com/taktamur/study_ios/blob/master/Objective-C/00_createProject.md)
+
+
 * 少しだけ複雑なHello World
 * クラスの宣言と実装でファイルを2つ作る
 	* PHPやJavaと違い、１つのクラスは「宣言部」と「実装部」に分かれます。
