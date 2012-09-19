@@ -210,4 +210,6 @@
 
 iOS開発へ
 ===
-http://www.atmarkit.co.jp/fsmart/index/iphonesdk.html ここに移行していく予定です。
+http://www.atmarkit.co.jp/fsmart/index/iphonesdk.html ここに移行するつもりでしたが、別の資料にいくかもしれません。
+
+
