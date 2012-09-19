@@ -14,8 +14,7 @@ README.md
 ----
 * [01_console](./01.console.md) プロジェクトの作成、デバッグ実行
 * 02_fizzbuzz](./02_FizzBuzz.md) FizzBuzz
-* 03_class クラス作成、プロパティについて
-* 04_localsearch アプリ作成：ローカルサーチで近くのPOIを取得する
+* 3回目 [IT_Objective-C.md](IT_Objective-C.md) @ITの記事を元に勉強会を進めていきます。
 
 
 参考
